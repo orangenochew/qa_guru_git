@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Make love not war");
     }
     
-    public static void (){
+    public static void another (){
         System.out.println("Another method");
     }
 }
